@@ -1,2 +1,2 @@
-# eddie
-eddie
+# Programming Examples for Eddie
+
