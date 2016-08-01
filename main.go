@@ -21,7 +21,7 @@ func main() {
 		for y := 0; y < h; y++ {
 			termbox.SetCell(x, y, '@', termbox.ColorGreen, termbox.ColorGreen)
 			termbox.Flush()
-			time.Sleep(time.Millisecond * 50)
+			time.Sleep(time.Millisecond * 5)
 		}
 	}
 }
